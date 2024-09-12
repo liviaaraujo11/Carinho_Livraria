@@ -1,2 +1,1 @@
-# Carinho_Livraria
-Trabalho IFRN
+# projetonovo
